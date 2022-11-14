@@ -1,0 +1,45 @@
+[I 08:27:50.388 NotebookApp] Serving notebooks from local directory: /home/swaroop
+[I 08:27:50.388 NotebookApp] Jupyter Notebook 6.5.1 is running at:
+[I 08:27:50.388 NotebookApp] http://localhost:8888/?token=a4ba49b69c4fdf965470dd9a888b49a12a34311f4cd854cc
+[I 08:27:50.388 NotebookApp]  or http://127.0.0.1:8888/?token=a4ba49b69c4fdf965470dd9a888b49a12a34311f4cd854cc
+[I 08:27:50.389 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:27:50.456 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/swaroop/.local/share/jupyter/runtime/nbserver-3767-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a4ba49b69c4fdf965470dd9a888b49a12a34311f4cd854cc
+     or http://127.0.0.1:8888/?token=a4ba49b69c4fdf965470dd9a888b49a12a34311f4cd854cc
+[E 08:27:52.290 NotebookApp] Could not open static file ''
+[W 08:27:52.582 NotebookApp] 404 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css (127.0.0.1) 56.380000ms referer=http://localhost:8888/tree?token=a4ba49b69c4fdf965470dd9a888b49a12a34311f4cd854cc
+[W 08:28:20.290 NotebookApp] 404 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css (127.0.0.1) 3.140000ms referer=http://localhost:8888/notebooks/SPARK_PY_RDD_Actions.ipynb
+[W 08:28:24.145 NotebookApp] Notebook SPARK_PY_RDD_Actions.ipynb is not trusted
+[W 08:28:24.164 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20221103082747 (127.0.0.1) 8.860000ms referer=http://localhost:8888/notebooks/SPARK_PY_RDD_Actions.ipynb
+[I 08:28:25.137 NotebookApp] Kernel started: b4591823-c7ef-4030-a240-2e9e5d8cb4b3, name: python3
+22/11/03 12:21:54 WARN Utils: Your hostname, swaroop-Ideapad-Z570 resolves to a loopback address: 127.0.1.1; using 192.168.0.192 instead (on interface wlp2s0)
+22/11/03 12:21:54 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+22/11/03 12:21:56 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[I 12:22:24.462 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 12:24:24.457 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb         
+[I 12:26:24.453 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 12:38:24.462 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+/usr/local/lib/python3.10/dist-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/usr/local/lib/python3.10/dist-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 12:40:24.446 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 12:42:24.462 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 12:42:31.723 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 12:48:24.449 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 12:50:24.450 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 12:51:08.594 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 13:16:24.457 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 13:18:24.469 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 13:20:24.468 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 13:46:04.875 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 13:49:57.499 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 14:02:24.467 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+[I 14:04:24.505 NotebookApp] Saving file at /SPARK_PY_RDD_Actions.ipynb
+
